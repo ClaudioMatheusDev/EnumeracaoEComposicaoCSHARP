@@ -4,8 +4,49 @@
 ### Depois, solicitar do usuário um mês e mostrar qual foi o salário do funcionário nesse mês:
 
 ## Projeto da atividade:
-![Projeto](https://github.com/user-attachments/assets/b2c5cb30-061c-4031-943e-f2f3c43e89b0)
+![image](https://github.com/user-attachments/assets/4a250ac8-897b-4679-bdff-e5148d9f96cf)
+
 
 
 ## Exemplo de como deve funcionar:
-![Exemplo](https://github.com/user-attachments/assets/69cf0274-edf4-4729-b3bf-cdc66fdcc560)
+
+Enter department's name: Design
+Enter worker data:
+
+Name: Alex
+
+Level (Junior/MidLevel/Senior): MidLevel
+
+Base salary: 1200.00
+
+How many contracts to this worker? 3
+
+Enter #1 contract data:
+
+Date (DD/MM/YYYY): 20/08/2018
+
+Value per hour: 50.00
+
+Duration (hours): 20
+
+Enter #2 contract data:
+
+Date (DD/MM/YYYY): 13/06/2018
+
+Value per hour: 30.00
+
+Duration (hours): 18
+
+Enter #3 contract data:
+
+Date (DD/MM/YYYY): 25/08/2018
+
+Value per hour: 80.00
+
+Duration (hours): 10
+
+Enter month and year to calculate income (MM/YYYY): 08/2018
+
+Name: Alex
+Department: Design
+Income for 08/2018: 3000.00
