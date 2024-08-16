@@ -38,7 +38,7 @@ namespace EnumeracaoEComposicao.Entities
 
         public double Income(int year, int month)
         {
-             double sum = BaseSalary;
+            double sum = BaseSalary;
 
             foreach (HourContract contract in Contracts)
             {
